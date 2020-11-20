@@ -6,7 +6,7 @@
 - anaconda3-5.3.1
 - NumPy  1.18.5
 - SciPy  1.5.0
-- blockmodels (R packages) 1.1.1 
+- blockmodels (R package) 1.1.1 
 - label.swithching (R package) 1.8
 
 
