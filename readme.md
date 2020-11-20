@@ -7,7 +7,7 @@
 - NumPy  1.18.5
 - SciPy  1.5.0
 - blockmodels (R packages) 1.1.1 
-- label.swithching (R packages) 1.8
+- label.swithching (R package) 1.8
 
 
 ## Data
