@@ -18,3 +18,9 @@
   - original data (experiment4/data) <br> 
     http://www.cs.cmu.edu/∼enron/
   - processed data (experiment4/output)
+
+
+Shintaro Fukushima and Kenji Yamanishi, <br>
+Detecting Hierarchical Changes in Latent Variable Models. <br>
+20th IEEE International Conference on Data Mining (ICDM2020), 2020. <br>
+https://arxiv.org/abs/2011.09465
