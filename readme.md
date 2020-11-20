@@ -6,6 +6,8 @@
 - anaconda3-5.3.1
 - NumPy  1.18.5
 - SciPy  1.5.0
+- blockmodels (R packages) 1.1.1 
+- label.swithching (R packages) 1.8
 
 
 ## Data
@@ -20,6 +22,7 @@
   - processed data (experiment4/output)
 
 
+## Publication
 Shintaro Fukushima and Kenji Yamanishi, <br>
 Detecting Hierarchical Changes in Latent Variable Models. <br>
 20th IEEE International Conference on Data Mining (ICDM2020), 2020. <br>
